@@ -7,7 +7,7 @@
 * Depth and breadth first search
 * Dijkstra's shortest path
 * Binary tree traversals
-* Insertion sort
+- [X] Insertion sort
 * Merge sort
 * Quick sort
 * Min & max heaps
