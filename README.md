@@ -8,7 +8,7 @@
 * Dijkstra's shortest path
 * Binary tree traversals
 - [X] Insertion sort
-* Merge sort
+* [X] Merge sort
 * Quick sort
 * Min & max heaps
 
