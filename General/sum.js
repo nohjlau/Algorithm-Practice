@@ -3,12 +3,9 @@ function sum(sum_n, arr) {
     return sum_n;
   }
   sum_n = sum_n + arr[arr.length-1];
-  var newArr = [];
-
-  for(let i = 0 ; i < arr.length-1; i++) {
-    newArr[i] = arr[i];
-  }
-  return sum(sum_n, newArr);
+  arr = arr.slice(0, arr.length-1);
+  
+  return sum(sum_n, arr);
 }
 
 
